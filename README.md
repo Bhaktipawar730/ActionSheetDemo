@@ -11,3 +11,6 @@ The Action Sheet Demo is a simple iOS application that demonstrates the use of a
 ## How It Works
 - When the user taps the action sheet button, a `UIAlertController` in action sheet style appears, displaying the available options.
 - Clicking any button closes the action sheet and triggers the respective action, such as printing the selected button title or performing a defined task.
+
+**ScreenShot->**
+![1](https://github.com/user-attachments/assets/1cd42cb6-0e0d-49b0-94c8-168798565208)
